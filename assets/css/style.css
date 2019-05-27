@@ -1,0 +1,26 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-image: url("../images/flowers-3.jpg");
+    background-size:    cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+    height: 100%;
+    margin-bottom: 0; 
+}
+
+header {
+    margin: auto;
+    margin-top: 5%;
+    text-align:center;
+}
+
+h1 {
+    color: white;
+    font-size: 7em;
+    font-weight: 700;
+    text-shadow: 3px 3px darkslategray;
+}
+
+#gameStartText {
+    font-size: 2em;
+}
